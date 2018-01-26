@@ -1,0 +1,13 @@
+﻿.chat-body {
+    height: 380px;
+    margin-top: 20px;
+    overflow-y: auto;
+    margin-left: 20px;
+}
+
+.contacts-body {
+    height: 200px;
+    margin-top: 10px;
+    overflow-y: auto;
+    margin-left: 10px;
+}

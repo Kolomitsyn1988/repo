@@ -1,0 +1,48 @@
+﻿@*@{
+    ViewBag.Title = "Chat Room";
+}*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    
+</head>
+<body>
+<h2>Чат-комната</h2>
+ 
+<div class="main">
+    <div class="col-sm-6" id="loginBlock">
+        Введите логин:<br />
+        <input id="txtUserName" type="text" />
+        <input id="btnLogin" type="button" value="Войти" />
+    </div>
+    <div class="col-sm-6" id="chatBody">
+        <div id="header"></div>
+        <div id="inputForm">
+            <input type="text" id="message" />
+            <input type="button" id="sendmessage" value="Отправить" />
+        </div>
+        <div class="chat-body">
+            <div id="chatroom"></div>
+        </div>
+    </div>
+    <div class="col-sm-5">
+        <p><h3>Все пользователи:</h3></p>
+        <br>
+        <div class="col-sm-10 left contacts-body" id="chatusers">
+            
+        </div>
+    </div>
+    <input id="hdId" type="hidden" />
+    <input id="username" type="hidden" />
+</div>
+ 
+@*<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<!--Ссылка на библиотеку SignalR -->
+<script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+<!--Ссылка на автоматически сгенерированный скрипт хаба SignalR -->
+<script src="~/signalr/hubs"></script>
+<script src="~/Scripts/util.js"></script>*@
+</body>
+</html>

@@ -1,0 +1,171 @@
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\ApplicationInsights.config
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\csc.exe
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\vbc.exe
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\ChatApplication.dll.config
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\ChatApplication.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\ChatApplication.pdb
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Antlr3.Runtime.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\EntityFramework.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\EntityFramework.SqlServer.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.Web.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Newtonsoft.Json.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Owin.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Helpers.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Mvc.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Optimization.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Razor.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\WebGrease.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.Web.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Helpers.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Mvc.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Optimization.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.Razor.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Antlr3.Runtime.pdb
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Newtonsoft.Json.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\EntityFramework.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\EntityFramework.SqlServer.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.dll
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.pdb
+c:\users\dima\documents\visual studio 2015\Projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.csprojResolveAssemblyReference.cache
+C:\projects\ChatApplication\ChatApplication\bin\ApplicationInsights.config
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\csc.exe
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\vbc.exe
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\VBCSCompiler.exe
+C:\projects\ChatApplication\ChatApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\ChatApplication\ChatApplication\bin\ChatApplication.dll.config
+C:\projects\ChatApplication\ChatApplication\bin\ChatApplication.dll
+C:\projects\ChatApplication\ChatApplication\bin\ChatApplication.pdb
+C:\projects\ChatApplication\ChatApplication\bin\Antlr3.Runtime.dll
+C:\projects\ChatApplication\ChatApplication\bin\EntityFramework.dll
+C:\projects\ChatApplication\ChatApplication\bin\EntityFramework.SqlServer.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.Web.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.ApplicationInsights.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\ChatApplication\ChatApplication\bin\Newtonsoft.Json.dll
+C:\projects\ChatApplication\ChatApplication\bin\Owin.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Helpers.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Mvc.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Optimization.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Razor.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Deployment.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.dll
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Razor.dll
+C:\projects\ChatApplication\ChatApplication\bin\WebGrease.dll
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.Web.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.ApplicationInsights.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Helpers.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Mvc.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Optimization.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.Razor.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Deployment.xml
+C:\projects\ChatApplication\ChatApplication\bin\System.Web.WebPages.Razor.xml
+C:\projects\ChatApplication\ChatApplication\bin\Antlr3.Runtime.pdb
+C:\projects\ChatApplication\ChatApplication\bin\Newtonsoft.Json.xml
+C:\projects\ChatApplication\ChatApplication\bin\EntityFramework.xml
+C:\projects\ChatApplication\ChatApplication\bin\EntityFramework.SqlServer.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\projects\ChatApplication\ChatApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.dll
+C:\projects\ChatApplication\ChatApplication\obj\Debug\ChatApplication.pdb
